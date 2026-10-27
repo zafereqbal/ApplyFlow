@@ -1,0 +1,1 @@
+Alembic is an optional migration tool; install with `pip install alembic` before running migrations.
